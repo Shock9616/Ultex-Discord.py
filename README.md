@@ -1,6 +1,6 @@
 # Ultex
 
-##Description
+## Description
 
 Ultex is a multi-purpose Discord bot with everything from music playback and moderation right down to a random number generator.
 
