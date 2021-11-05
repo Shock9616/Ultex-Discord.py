@@ -4,5 +4,8 @@
 # Ignore python virtualenv
 venv
 
+# Ignore __pycache__
+__pycache__
+
 # Ignore secrets
 secrets.*
