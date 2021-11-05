@@ -3,3 +3,6 @@
 
 # Ignore python virtualenv
 venv
+
+# Ignore secrets
+secrets.*
