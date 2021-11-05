@@ -1,5 +1,8 @@
 # Ultex
 
+## Notice:
+Since the depreciation of discord.py, I will be rewriting this bot using Hikari. This will take a long time since I have to learn how to use a very different library from discord.py and rewrite all the code. I will update this readme once the Hikari version has feature-parody with this one.
+
 Ultex is a multi-purpose Discord bot with everything from music playback and moderation right down to a random number generator.
 
 ## Feature Highlights
